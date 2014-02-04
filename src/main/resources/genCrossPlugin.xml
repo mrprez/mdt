@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="genCross.plugin.name">MdT</entry>
+	<entry key="genCross.plugin.className">com.mrprez.gencross.impl.mdt.MdT</entry>
+	<entry key="genCross.plugin.gcrFileName">com/mrprez/gencross/impl/mdt/MdT.gcr</entry>
+	<entry key="genCross.plugin.version">1.0</entry>
+</properties>
+

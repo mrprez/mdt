@@ -4,6 +4,6 @@
 	<entry key="genCross.plugin.name">MdT</entry>
 	<entry key="genCross.plugin.className">com.mrprez.gencross.impl.mdt.MdT</entry>
 	<entry key="genCross.plugin.gcrFileName">com/mrprez/gencross/impl/mdt/MdT.gcr</entry>
-	<entry key="genCross.plugin.version">1.1</entry>
+	<entry key="genCross.plugin.version">1.2</entry>
 </properties>
 

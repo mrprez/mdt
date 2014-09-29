@@ -5,7 +5,7 @@
 	<packaging>jar</packaging>
 	
 	<artifactId>mdt</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	
 	<name>MdT</name>
 	
@@ -18,7 +18,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/gencross-plugins/mdt.git</connection>
 		<developerConnection>scm:git:git@github.com:gencross-plugins/mdt.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>mdt-1.2</tag>
 	</scm>
 	
 	
